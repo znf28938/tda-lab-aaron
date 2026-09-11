@@ -1,9 +1,8 @@
-# TDA Lab de [ESCRIBE AQUÍ TU NOMBRE]
+# TDA Lab de AARÓN
 
-**[TU CURSO] · Curso 2026-2027**
+**2º Bachillerato A · Curso 2026-2027**
 
-[Escribe aquí una frase tuya diciendo qué es esto. Por ejemplo: «Aquí voy dejando lo que
-hago en Tecnologías Digitales Aplicadas: qué construí, dónde me atasqué y cómo salí.»]
+Esto es lo que iré haciendo en TDA II durante el curso 2026/27
 
 ---
 
