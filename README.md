@@ -2,7 +2,7 @@
 
 **2º Bachillerato A · Curso 2026-2027**
 
-Esto es lo que iré haciendo en TDA II durante el curso 2026/27
+Esto es lo que iré haciendo en TDA II durante el curso 2026/27.
 
 ---
 
