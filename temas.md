@@ -1,16 +1,14 @@
 [← Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 16/09 · Mis aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Llevo años practicando Kickboxing, en un club de la zona.
+Lo que más me gusta no es solo golpear, es esquivar los fuertes golpes que mi rival me intenta dar, me genera adrenalina.
+Entreno miércoles y viernes, cada día mejor que el anterior.
+También me gusta ver en casa los combates de la UFC, la competición más importante de artes marciales, y para la que mi deporte es muy importante.
 
-```
-### Título del tema — fecha
+Buscando en GitHub he encontrado (https://github.com/Greco1899/scrape_ufc_stats),
+un programa libre para seguir las estadísticas de la UFC a tiempo real.
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+Esto es la UFC <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87ac1cf2-f540-436f-a40a-4cac314f031a" />
