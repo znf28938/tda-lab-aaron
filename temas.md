@@ -20,9 +20,9 @@ David Klenerman, Shankar Balasubramanian y Pascal Mayer son los científicos gan
 
 [su página en la Fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-david-klenerman-shankar-balasubramanian-y-pascal-mayer/)
 
-![Imagen Klenerman](capturas/NOMBRE-DE-TU-IMAGEN.jpg)
-![Imagen Balasubramanian]()
-![Imagen Mayer]()
+![Imagen Klenerman](capturas/Klenerman.jpg)
+![Imagen Balasubramanian](capturas/Balasubramanian.jpg)
+![Imagen Mayer](capturas/Mayer.jpg)
 
 Imagen: Klenerman, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:David_Klenerman_Studio_shoot_30_05_24_photos_taken_by_Michael_Webb_%C2%A9University_of_Cambridge_R6A_2299.jpg)
 Imagen: Balasubramanian, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shankar_Balasubramanian,_Herchel_Smith_Professor_of_Medicinal_Chemistry.jpg)
