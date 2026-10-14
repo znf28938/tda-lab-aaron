@@ -28,3 +28,14 @@ Imagen: Klenerman, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:D
 Imagen: Balasubramanian, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shankar_Balasubramanian,_Herchel_Smith_Professor_of_Medicinal_Chemistry.jpg)
 Imagen: Mayer, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PascalMayer202106_JCMayer.jpg)
 ---
+
+
+### 13/10 · Ada Lovelace
+
+Ada Lovelace fue una matemática británica del siglo XIX. Trabajó con las ideas de Charles Babbage para su máquina analítica, un diseño de ordenador mecánico que nunca llegó a construirse en su época. Escribió unas instrucciones para calcular números con esa máquina, por lo que muchas personas la consideran la primera programadora de la historia. El Día de Ada Lovelace se celebra el segundo martes de octubre para reconocer sus aportaciones y destacar el papel de las mujeres en la ciencia y la tecnología.
+
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+[Ada Lovelace en SCIC]((https://www.mncn.csic.es/es/visita-el-mncn/biografia-de-ada-lovelace))
+
+
+---
