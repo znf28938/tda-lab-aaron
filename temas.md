@@ -27,6 +27,7 @@ David Klenerman, Shankar Balasubramanian y Pascal Mayer son los científicos gan
 Imagen: Klenerman, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:David_Klenerman_Studio_shoot_30_05_24_photos_taken_by_Michael_Webb_%C2%A9University_of_Cambridge_R6A_2299.jpg)
 Imagen: Balasubramanian, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shankar_Balasubramanian,_Herchel_Smith_Professor_of_Medicinal_Chemistry.jpg)
 Imagen: Mayer, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PascalMayer202106_JCMayer.jpg)
+
 ---
 
 
@@ -37,5 +38,8 @@ Ada Lovelace fue una matemática británica del siglo XIX. Trabajó con las idea
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 [Ada Lovelace en SCIC]((https://www.mncn.csic.es/es/visita-el-mncn/biografia-de-ada-lovelace))
 
+![Imagen Ada Lovelace](capturas/ada.jpg)  
+
+Imagen: Ada, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg) 
 
 ---
