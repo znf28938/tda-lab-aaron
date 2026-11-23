@@ -65,10 +65,10 @@
 
 ---
 
-### 16/11 · U1_A6_Decisiones
+### 16/11 · U1_A6_Funciones
 
 - **Aplicación:** Thonny
 - **Entregado:** U1_A6-Funciones-AarónB.zip
-- **Qué hice:** Programe en Phyton la toma de decisiones y a escribir funciones.
+- **Qué hice:** Programe en Phyton aprendiendo a escribir funciones.
 
 ---
