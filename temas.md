@@ -43,3 +43,26 @@ Ada Lovelace fue una matemática británica del siglo XIX. Trabajó con las idea
 *PIE DE FOTO. Imagen: Alfred Edward Chalon, (https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)*  
 
 ---
+
+### 27/11 · Voyager 1
+
+La [Voyager 1](https://es.wikipedia.org/wiki/Voyager_1) es una sonda espacial fabricada por la [NASA](https://science.nasa.gov/mission/voyager/) que explora el espacio. fue lanzada el 5 de septiembre de 1977. se hizo muy famosa estos dias porque el 18 de noviembre de 2026 alcanzó una distancia de un día luz de la Tierra, unos 25.900 millones de kilómetros. tiene problemas para enviar datos científicos debido a su fabricación. Lleva un Disco de Oro con música, sonidos, imágenes y saludos de la Tierra, pensado para que posibles civilizaciones extraterrestres conozcan nuestra humanidad. 
+
+| Dato | Voyager 1 |
+|---|---|
+| Lanzamiento | 05-09-1977 |
+| Distancia a la Tierra | 25.900.000.000 km  |
+| Velocidad | 61.000 km/h |
+| Lo que tarda su señal en llegar | 24 horas |
+| Años de viaje | 49 años |
+
+![Sonda Voyager 1](capturas/voyager.jpg){: width="300"}
+*PIE DE FOTO. Imagen: NASA/JPL, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Voyager_spacecraft.jpg)*
+
+**Mi Disco de Oro 2026**
+
+- **Lo que pondría:** Imagen del trabajo de los recolectores de materias primas de la superficie, We Are the Champions (Queen).
+- **En qué idioma:** Inglés (por cifra mundial de hablantes).
+- **En qué formato:** Visual/sonoro.
+
+---
